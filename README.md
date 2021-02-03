@@ -1,4 +1,4 @@
-# Straming Video Server and Client
+# Streaming Video Server and Client
 
 ## Installation
 
